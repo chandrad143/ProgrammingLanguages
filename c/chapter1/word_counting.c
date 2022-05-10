@@ -3,6 +3,8 @@
 #define IN 1 /* inside a word*/
 #define OUT 0 /* outside a word*/
 
+/*Program to count lines, words, and characters in input */
+
 main()
 {
     int c, n1, nw, nc, state;
