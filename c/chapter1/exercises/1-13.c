@@ -5,7 +5,7 @@
 #define OUT  1 
 #define IN   0 
 
-main()
+int main()
 {
 	int c, i, j, count, state;
 	int lengths[SIZE]; 
