@@ -44,6 +44,7 @@ int getline(char s[], int lim)
         s[i] = c;
     if (c == '\n'){
         s[i]='\n';
+		++i;
     }
     s[i]= '\0';
     return i;
