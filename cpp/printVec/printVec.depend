@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655080742 source:c:\users\db465w\desktop\personal_stuff\study\prog\programminglanguages\cpp\printvec\main.cpp
+	<iostream>
+	<vector>
+
