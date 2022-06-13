@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655054063 source:c:\users\db465w\desktop\personal_stuff\study\prog\programminglanguages\cpp\vectors\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+
